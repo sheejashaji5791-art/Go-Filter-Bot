@@ -1,1 +1,1 @@
-web: ./bin/Go-Filter-Bot
+web: go run main.go
